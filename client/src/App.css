@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'FontMeduim';
+    src: url('./assets/fonts/ZabalDEMO-Medium.otf') format('truetype');
+  }
+  @font-face {
+    font-family: 'FontBold';
+    src: url('./assets/fonts/ZabalDEMO-Bold.otf') format('truetype');
+  }
+  @font-face {
+    font-family: 'FontExtraBold';
+    src: url('./assets/fonts/ZabalDEMO-ExtraBold.otf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'tst';
+    src: url('./assets/fonts/QTAncientOlive.otf') format('truetype');
+  }
+
+  * {
+    font-family: "FontMeduim";
+  }
+  #bigT {
+    font-family: "FontExtraBold";
+  }
